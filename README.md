@@ -1,0 +1,1 @@
+This is a project I did on my free time where I learned about and used Microsoft SQL's Server Express along with the Visual Studio CLR (C++) .NET Framework empty project creation tool to create a showcase of a pet database and navigator that I made.
